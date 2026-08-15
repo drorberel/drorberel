@@ -1,6 +1,6 @@
 Welcome!
 
-Not even sure how to call myself these days. At the intersection of Statistics, Biometrics and Data Science, with my favorite tool... R.  
+My interest is at the intersection of Statistics, Biometrics and Data Science, with my favorite tool... R.  
 
 Had a blog on [Medium](https://drorberel.medium.com/).  
 Recently started publishing at [Substack](https://substack.com/@drorberel/posts).  
