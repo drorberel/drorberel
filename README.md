@@ -2,7 +2,7 @@ Welcome!
 
 My interest is at the intersection of Statistics, Biometrics and Data Science, with my favorite tool... R.  
 
-Website www.drorberel.com
+Website www.drorberel.com  
 Had a blog on [Medium](https://drorberel.medium.com/).  
 Recently started publishing at [Substack](https://substack.com/@drorberel/posts).  
 My OLD [github page](https://drorberel.github.io/) was initially created around 2019, and I feel bad updating it. Call me nostalgic.  
